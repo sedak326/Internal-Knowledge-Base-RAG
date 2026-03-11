@@ -1,6 +1,6 @@
 # Multimodal RAG
 
-Companies accumulate a lot of documentation. Finding answers in a 200-page manual is slow, so this tool turns PDF documents into a local knowledge base you can query in plain language. Originally built to handle internal company manuals, with the goal of eventually helping support teams answer customer questions faster.
+Companies accumulate a lot of documentation. Finding answers in a 200-page manual is slow, so this tool turns PDF documents into a local knowledge base you can query in plain language. Originally built to handle internal company manuals for a company with strict data privacy requirements, which is why the entire stack runs locally with no data leaving the machine. The goal is to eventually extend it to help support teams answer customer questions faster.
 
 ---
 
